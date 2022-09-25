@@ -1,5 +1,5 @@
 # Project Zomboid • Vestjylland 🌊⭐
-My repository for any kinds of PZ modding
+My long term goal is a map of West Jutland with the opportunity of driving from Thyborøn to Hvide Sande and able to visit most of the towns to the east 🚗💨
 
 [![Ringkøbing-Skjern Municipality](https://upload.wikimedia.org/wikipedia/commons/6/61/Map_DK_Ringk%C3%B8bing-Skjern.PNG)](https://en.wikipedia.org/wiki/Ringk%C3%B8bing-Skjern_Municipality)
 
