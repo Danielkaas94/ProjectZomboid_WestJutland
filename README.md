@@ -27,3 +27,13 @@ My repository for any kinds of PZ modding
 
 
 [![Project zomboid building editor tutorial 01 Rooms and room definitions.](https://img.youtube.com/vi/nPbsDmzZ3Oc/maxresdefault.jpg)](https://youtu.be/nPbsDmzZ3Oc)
+
+
+
+
+
+
+[Join CodeWars with me!](http://codewars.com/r/hGyTsQ/)
+<p>
+  <img alt="CodeWars Badge" src="https://www.codewars.com/users/Danielkaas94/badges/large">
+</p>
