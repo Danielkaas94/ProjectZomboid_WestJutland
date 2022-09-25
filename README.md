@@ -5,7 +5,7 @@ My repository for any kinds of PZ modding
 
 <details><summary>➡ Click To Reveal Top Secret Work In Progress Image ⬅</summary>
 
-# Work in Progress - My First Building
+# Work in Progress - My First Building 🏡
 
 <p align="center">
   <img alt="Work in Progress on my first building #1" width="1200" src="https://github.com/Danielkaas94/ProjectZomboid_WestJutland/blob/main/Images/Klit24_AC.png?raw=true">
