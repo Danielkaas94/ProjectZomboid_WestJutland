@@ -23,6 +23,10 @@ My long term goal is a map of West Jutland with the opportunity of driving from 
   <img alt="My first cell in the World Editor" width="1200" src="https://github.com/Danielkaas94/ProjectZomboid_WestJutland/blob/main/Images/FirstCell.png?raw=true">
 </p>
 
+<p align="center">
+  <img alt="My first 2x2 cell in the World Editor" width="1200" src="https://github.com/Danielkaas94/ProjectZomboid_WestJutland/blob/main/Images/EdgeLord.png?raw=true">
+</p>
+
 </details>
 
 <br>
