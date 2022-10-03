@@ -10,8 +10,8 @@ My long term goal is a map of West Jutland with the opportunity of driving from 
 
 <a href="https://en.wikipedia.org/wiki/Ringk%C3%B8bing-Skjern_Municipality">
 
-  <img alt="Noita Gif #4" width="400"  src="https://upload.wikimedia.org/wikipedia/commons/6/61/Map_DK_Ringk%C3%B8bing-Skjern.PNG">
-    <img alt="Noita Gif #4" width="450"  src="https://github.com/Danielkaas94/ProjectZomboid_WestJutland/blob/main/Images/udkant.png?raw=true">
+  <img alt="Ringkøbing-Skjern Municipality" width="350"  src="https://upload.wikimedia.org/wikipedia/commons/6/61/Map_DK_Ringk%C3%B8bing-Skjern.PNG">
+    <img alt="VestJylland - The I am the eye in the sky, looking at you. I can read your mind. I am the maker of rules, dealing with fools. I can cheat you blind" width="350"  src="https://github.com/Danielkaas94/ProjectZomboid_WestJutland/blob/main/Images/udkant.png?raw=true">
 </a>
 
 </div>
