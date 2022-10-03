@@ -1,7 +1,20 @@
 # Project Zomboid • Vestjylland 🌊⭐
 My long term goal is a map of West Jutland with the opportunity of driving from Thyborøn to Hvide Sande and able to visit most of the towns to the east 🚗💨
+<!-- 
+[![Ringkøbing-Skjern Municipality](https://upload.wikimedia.org/wikipedia/commons/6/61/Map_DK_Ringk%C3%B8bing-Skjern.PNG)](https://en.wikipedia.org/wiki/Ringk%C3%B8bing-Skjern_Municipality) -->
 
-[![Ringkøbing-Skjern Municipality](https://upload.wikimedia.org/wikipedia/commons/6/61/Map_DK_Ringk%C3%B8bing-Skjern.PNG)](https://en.wikipedia.org/wiki/Ringk%C3%B8bing-Skjern_Municipality)
+
+
+<div align="center">
+
+
+<a href="https://en.wikipedia.org/wiki/Ringk%C3%B8bing-Skjern_Municipality">
+
+  <img alt="Noita Gif #4" width="400"  src="https://upload.wikimedia.org/wikipedia/commons/6/61/Map_DK_Ringk%C3%B8bing-Skjern.PNG">
+    <img alt="Noita Gif #4" width="450"  src="https://github.com/Danielkaas94/ProjectZomboid_WestJutland/blob/main/Images/udkant.png?raw=true">
+</a>
+
+</div>
 
 <details><summary>➡ Click To Reveal Top Secret Work In Progress Image ⬅</summary>
 
@@ -19,6 +32,8 @@ My long term goal is a map of West Jutland with the opportunity of driving from 
   <img alt="Work in Progress on my first building #3" width="1200" src="https://github.com/Danielkaas94/ProjectZomboid_WestJutland/blob/main/Images/Klit24_AF.png?raw=true">
 </p>
 
+# Work in Progress - World Editor 🌍
+
 <p align="center">
   <img alt="My first cell in the World Editor" width="1200" src="https://github.com/Danielkaas94/ProjectZomboid_WestJutland/blob/main/Images/FirstCell.png?raw=true">
 </p>
@@ -26,6 +41,13 @@ My long term goal is a map of West Jutland with the opportunity of driving from 
 <p align="center">
   <img alt="My first 2x2 cell in the World Editor" width="1200" src="https://github.com/Danielkaas94/ProjectZomboid_WestJutland/blob/main/Images/EdgeLord.png?raw=true">
 </p>
+
+<p align="center">
+  <img alt="Just Testing Klitvej Roadmap" width="1200" src="https://github.com/Danielkaas94/ProjectZomboid_WestJutland/blob/main/Images/KVA4.png?raw=true">
+</p>
+
+>One big obstacle with the isometric graphics, is that curved roads is going to be a big problem, some corners has to be cut, no pun intended
+
 
 </details>
 
