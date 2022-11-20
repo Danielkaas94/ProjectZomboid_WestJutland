@@ -53,6 +53,10 @@ My long term goal is a map of West Jutland with the opportunity of driving from 
 
 <br>
 
+
+[![Project Zomboid - A Christmas Carol 🎅🧟‍♀️🧟‍♂️](https://img.youtube.com/vi/vP9obPDINeg/maxresdefault.jpg)](https://youtu.be/vP9obPDINeg)
+
+
 [![Project zomboid building editor tutorial 01 Rooms and room definitions.](https://img.youtube.com/vi/BDLkMMDAGpg/maxresdefault.jpg)](https://youtu.be/BDLkMMDAGpg)
 
 
