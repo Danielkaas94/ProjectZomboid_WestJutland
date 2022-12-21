@@ -10,6 +10,8 @@ My long term goal is a map of West Jutland with the opportunity of driving from 
 
 # [🧟‍♀️🎶 Maybe We Can Win This 🎵🧟‍♂️](https://youtu.be/lbMk9CRmtzg)
 
+# [🎒🆙🎶 Gear Up 🎵🆙🎒](https://youtu.be/aAYh_1cTdSE)
+
 
 <a href="https://en.wikipedia.org/wiki/Ringk%C3%B8bing-Skjern_Municipality">
 
