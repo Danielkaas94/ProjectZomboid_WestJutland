@@ -3,6 +3,7 @@ My long term goal is a map of West Jutland with the opportunity of driving from 
 <!-- 
 [![Ringkøbing-Skjern Municipality](https://upload.wikimedia.org/wikipedia/commons/6/61/Map_DK_Ringk%C3%B8bing-Skjern.PNG)](https://en.wikipedia.org/wiki/Ringk%C3%B8bing-Skjern_Municipality) -->
 
+So far the development of this project is on halt, since [Build 42](https://projectzomboid.com/blog/upcoming-features-b42/) is around the corner and will be available "soon"
 
 
 <div align="center">
